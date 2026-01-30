@@ -1,0 +1,118 @@
+Protein	Gene	Role_in_nuclear_mechanics	General_function	Signaling_pathways	Epigenetics_tag	References_IDs
+Lamin A/C	LMNA	Determinante major de nuclear stiffness; protege integridad de envoltura nuclear; modula mechanoresponse y NE rupture bajo fuerzas del citoesqueleto	Intermediate filament de lamina nuclear; organización nuclear/genómica	LINC–cytoskeleton coupling; mechanotransduction axis	NO	fbioe-08-596746; s44258-025-00063-5
+Lamin B1	LMNB1	Contribuye a stiffness/rigidez de la lamina y arquitectura nuclear (componente load-bearing)	Structural lamina component; nuclear integrity	Lamina mechanics; mechanosensing support	NO	fbioe-08-596746; s44258-025-00063-5
+Lamin B2	LMNB2	Soporte estructural de la lamina; contribuye a rigidez global del núcleo	Structural lamina component	Lamina mechanics	NO	fbioe-08-596746; s44258-025-00063-5
+Emerin	EMD	INM protein asociado a nuclear stiffening y respuesta a strain; implicado en mecanogenes bajo deformación	LEM-domain INM protein; envelope organization	LINC/NE mechanotransduction	NO	fbioe-08-596746
+SUN1	SUN1	Core de LINC; acopla fuerzas del citoesqueleto a la envoltura nuclear; interactúa con NPC para cambios por fuerza	INM LINC component	LINC; focal adhesion maturation (bidirectional signaling)	NO	fbioe-08-596746; s44258-025-00063-5; PMID:21652697
+SUN2	SUN2	Core de LINC; contribuye a transmisión de fuerza nucleo-citoesqueleto	INM LINC component	LINC axis	NO	s44258-025-00063-5
+Nesprin-1	SYNE1	KASH protein; transmite fuerzas actina→núcleo; afecta forma nuclear y fenotipo mecano-dependiente	ONM LINC component	LINC; actin cap coupling	NO	fbioe-08-596746; PMID:32939447; PMID:21652697
+Nesprin-2	SYNE2	KASH protein; acopla actina/perinuclear actin a núcleo; regula nuclear positioning y TAN lines	ONM LINC component	LINC; actin organization	NO	fbioe-08-596746; PMID:21652697
+Nesprin-3	SYNE3	Conecta IF (vimentina) vía plectina a núcleo; relevante para nuclear deformation y perinuclear IF network	ONM LINC component	LINC; IF–nucleus coupling	NO	fbioe-08-596746; PMID:21652697
+Nesprin-4	SYNE4	Acoplamiento a microtúbulos (en ciertos tipos celulares); contribuye a posicionamiento nuclear	ONM LINC component	LINC–microtubule coupling	NO	s44258-025-00063-5
+LAP2 (Lamina-associated polypeptide 2)	TMPO	Proteína INM que modula composición de membrana nuclear y stiffness (vía arquitectura NE/lamina)	INM/lamina-associated protein	Nuclear envelope mechanics	NO	s44258-025-00063-5
+MAN1	LEMD3	INM protein que modula señalización nuclear; vínculo con mecano-regulación del núcleo	LEM-domain INM protein	TGF-β/SMAD regulation (context-dependent)	NO	s44258-025-00063-5
+LEMD2	LEMD2	INM tether; contribuye a arquitectura de la envoltura y acoplamiento lamina-cromatina	INM protein	NE–chromatin coupling	NO	s44258-025-00063-5
+BAF	BANF1	Tether cromatina-envoltura; contribuye a estabilidad mecánica del núcleo	DNA-binding chromatin protein	NE–chromatin coupling	NO	s44258-025-00063-5
+LBR (Lamin B receptor)	LBR	Anclaje de heterocromatina a envoltura; influye en propiedades mecánicas vía organización cromatina-lamina	INM receptor for lamin B / chromatin tether	Lamina–chromatin mechanics	NO	s44258-025-00063-5
+Nup153	NUP153	NPC basket protein; fuerzas pueden alterar NPC (basket conformation) vía interacción con SUN1	FG/NPC basket nucleoporin	NPC mechanogating; YAP nuclear import	NO	fbioe-08-596746
+Nuclear pore complex (core)	NUP93	Contribuye a “nuclear pore stretching” y transporte mecano-dependiente	NPC scaffold nucleoporin	NPC mechanogating	NO	fbioe-08-596746
+Nuclear pore complex (transport)	NUP62	Transporte núcleo-citoplasma; mecánica puede modular permeability NPC	NPC channel nucleoporin	NPC mechanogating	NO	fbioe-08-596746
+TPR (NPC basket)	TPR	Basket/transport regulation; potencial punto mecano-sensible en gating NPC	NPC basket protein	NPC mechanogating	NO	fbioe-08-596746
+Histone H3 (mark context)	H3F3A/H3F3B	H3K9me3 heterochromatin relacionado a condensación y nuclear architecture bajo carga mecánica	Core histone; chromatin structure	Chromatin mechanics	YES	Hacking-mechanical-memory_2023_bpj; Mechanical-memory-stored-through-epigenetic-remode
+HP1α	CBX5	Heterochromatin protein; contribuye a stiffness (vía compactación/phase-like behavior)	Reader of H3K9me3 (chromodomain)	Heterochromatin maintenance	YES	s44258-025-00063-5
+CTCF	CTCF	Arquitectura 3D del genoma; contribuye a organización mecano-dependiente de cromatina	Insulator/boundary factor	3D genome organization	NO	s41586-025-09890-3
+Cohesin	SMC1A	Arquitectura 3D; respuesta de contactos bajo cambios de estado nuclear	Chromatin loop extrusion	3D genome organization	NO	s41586-025-09890-3
+Cohesin	SMC3	Arquitectura 3D; posible impacto en compartments mecano-dependientes	Chromatin loop extrusion	3D genome organization	NO	s41586-025-09890-3
+Cohesin	RAD21	Arquitectura 3D; soporte de loops/compartments	Chromatin loop extrusion	3D genome organization	NO	s41586-025-09890-3
+YAP	YAP1	Nuclear relay mecano-sensible; nuclear import favorecido por tensión actomiosina/NPC stretching	Transcriptional coactivator	Hippo pathway; Rho–ROCK–actomyosin; integrin–FAK	NO	fbioe-08-596746; PMID:21654799; PMID:25502501
+TAZ	WWTR1	Nuclear relay mecano-sensible; nuclear accumulation en matrices rígidas; drive fibrosis programs	Transcriptional coactivator	Hippo pathway; Rho–ROCK; integrin mechanotransduction	NO	PMID:25502501; PMID:21654799
+TEAD1	TEAD1	TF partner de YAP/TAZ; ejecuta output transcripcional mecano-dependiente	Transcription factor	YAP/TAZ–TEAD	NO	PMID:21654799
+TEAD2	TEAD2	Output de YAP/TAZ; control de genes contractiles/ECM	Transcription factor	YAP/TAZ–TEAD	NO	PMID:21654799
+MRTF-A	MRTFA(MKL1)	Factor mecano-sensible; trafficking nucleo-citoplásmico depende de actina; memoria mecánica vía miR-21	SRF co-activator	Actin–SRF/MRTF axis; Rho–ROCK	NO	PMID:27798620; PMID:21654799
+MRTF-B	MRTFB(MKL2)	Co-activador SRF; mecano-respuesta dependiente de actina (frecuente en ejes SRF)	SRF co-activator	Actin–SRF/MRTF axis	NO	PMID:21654799
+SRF	SRF	TF ejecutor del programa actina/contractilidad; coopera con MRTFs	Transcription factor	Actin–SRF/MRTF axis	NO	PMID:27798620
+β-catenin	CTNNB1	Acumulación nuclear sensible a arquitectura/3D; integra mecánica con señalización nuclear	Adhesion + transcription cofactor	Wnt/β-catenin	NO	fbioe-08-596746
+SMAD2	SMAD2	Transduce TGF-β; stiffness/YAP/TAZ modulan su nuclear accumulation	Signal transducer	TGF-β/SMAD; YAP/TAZ crosstalk	NO	PMID:26961347
+SMAD3	SMAD3	Pro-fibrotic transcriptional mediator; dependencia de stiffness y cofactores mecano-sensibles	Signal transducer	TGF-β/SMAD; YAP/TAZ crosstalk	NO	PMID:26961347
+FAK	PTK2	Adhesión focal; genera fuerzas/contractilidad que se transmiten al núcleo via LINC	Focal adhesion kinase	Integrin–FAK–Src; RhoA–ROCK	NO	PMID:34208586
+Talin	TLN1	Mecanosensor de adhesión focal; conecta integrinas a actina; fuerza→núcleo	FA adaptor protein	Integrin adhesome	NO	PMID:34208586
+Vinculin	VCL	Refuerza adhesiones bajo tensión; transmite fuerzas a stress fibers→LINC	Focal adhesion protein	Integrin adhesome	NO	PMID:34208586
+Paxillin	PXN	Plataforma adhesión focal; fuerza dependiente; conecta a FAK/Src	Focal adhesion adaptor	Integrin–FAK signaling	NO	PMID:34208586
+Integrin β1	ITGB1	Sensing de stiffness; upstream de YAP/TAZ y remodelado actina	ECM receptor	Integrin mechanotransduction; β1-integrin–YAP	NO	PMID:34208586; PMID:41243096
+Integrin α5	ITGA5	Receptor ECM; fuerza→FAK/RhoA; contribuye a eje adhesión-citoesqueleto-núcleo	ECM receptor	Integrin mechanotransduction	NO	PMID:34208586
+ILK	ILK	Integrin-linked kinase; acopla integrina–actina; fuerza→señalización	Adhesome signaling	Integrin–ILK–AKT (context)	NO	s44258-025-00063-5
+Kindlin-2	FERMT2	Activación de integrinas; refuerza adhesiones bajo tensión	Integrin activator	Integrin adhesome	NO	s44258-025-00063-5
+Src	SRC	Señal adhesión focal; coopera con FAK; fuerza dependiente	Tyrosine kinase	Integrin–FAK–Src	NO	s44258-025-00063-5
+RhoA	RHOA	Tensión actomiosina; regula nuclear localization de YAP/TAZ y MRTF	Small GTPase	RhoA–ROCK–myosin; mechanotransduction	NO	PMID:21654799; PMID:34208586
+ROCK1	ROCK1	Efector Rho; contractilidad; promueve YAP/MRTF nuclear localization	Kinase	RhoA–ROCK	NO	PMID:34208586
+ROCK2	ROCK2	Efector Rho; modula acto-miosina y mecánica nuclear	Kinase	RhoA–ROCK	NO	PMID:34208586
+Myosin IIA	MYH9	Genera fuerza acto-miosina; deforma núcleo vía LINC	Actin motor	Actomyosin contractility	NO	fbioe-08-596746
+Myosin IIB	MYH10	Contractilidad y reorganización perinuclear; influye nuclear deformation	Actin motor	Actomyosin contractility	NO	fbioe-08-596746
+Myosin light chain	MYL9	Fuerza acto-miosina; contribuye a tensión transmitida al núcleo	Regulatory light chain	RhoA–ROCK; MLCK	NO	s44258-025-00063-5
+MLCK	MYLK	Fosforila MLC; regula contractilidad→deformación nuclear	Kinase	Actomyosin contractility	NO	s44258-025-00063-5
+β-actin	ACTB	F-actin alignment y actin cap perinuclear; controla import nuclear de cofactores	Actin cytoskeleton	Cytoskeletal tension axis	NO	fbioe-08-596746
+γ-actin	ACTG1	Soporte actina; contribuye a arquitectura perinuclear	Actin cytoskeleton	Cytoskeletal tension axis	NO	fbioe-08-596746
+Arp2	ACTR2	Actin nucleation (Arp2/3); requerido para perinuclear actin cap (nuclear shape dome)	Actin-related protein	Actin remodeling; YAP/TAZ downstream (reported)	NO	turn0search2_ID(LifeMed_lnac039)
+Cofilin	CFL1	Actin turnover; influencia tensión y transporte nuclear	Actin severing protein	Actin dynamics	NO	s44258-025-00063-5
+Profilin	PFN1	Actin polymerization; contribuye a fuerza perinuclear	Actin binding protein	Actin dynamics	NO	s44258-025-00063-5
+Filamin A	FLNA	Crosslink actina; transmite fuerza; acopla adhesiones a cytoskeleton	Actin crosslinker	Integrin mechanotransduction	NO	s44258-025-00063-5
+Plectin	PLEC	Conecta IF–actina–adhesiones; puente hacia nesprin-3 y núcleo	Cytolinker	LINC–IF coupling; adhesome	NO	s44258-025-00063-5; PMID:21652697
+Vimentin	VIM	IF network; regula resistencia a deformación, protege núcleo y modula nuclear positioning	Intermediate filament	IF–LINC coupling	NO	PMID:21652697
+α-tubulin	TUBA1B	Microtúbulos; contribuye a positioning nuclear (context-dependent)	Microtubule component	Microtubule dynamics	NO	s44258-025-00063-5
+Dynein	DYNC1H1	Fuerzas sobre el núcleo vía microtúbulos; positioning nuclear	Microtubule motor	Microtubule coupling	NO	s44258-025-00063-5
+Piezo1	PIEZO1	Canal mecanosensible; reportado como vía que regula respuesta nuclear (NEAT1/PSPC1)	Mechanosensitive ion channel	Piezo1 signaling; mechanotransduction	NO	PMID:41243096
+PREP1	PREP1(AKA PKNOX1)	Modula stiffness via composición de membrana nuclear (SUN1/SUN2/LAP2)	Homeobox TF	NE composition control	NO	s44258-025-00063-5
+KLF2	KLF2	En hígado: eje antifibrótico mecano-modulado (endotelio/LSEC); asociado a estado quiescente	Transcription factor	KLF2–NO (endothelial mechanosensing)	NO	s44258-025-00063-5; PMID:32939447
+eNOS	NOS3	Parte de respuesta mecano-endotelial; relevante en fibrosis hepática (LSEC)	Nitric oxide synthase	KLF2–NO axis	NO	PMID:32939447
+α-SMA	ACTA2	Marker contractile; contribuye a fuerzas internas que deforman núcleo	Contractile actin	Integrin–Rho–ROCK; fibrosis programs	NO	PMID:34208586; PMID:25502501
+CTGF	CTGF	Output clásico YAP/TAZ; regula ECM stiffening (feedback fibrosis)	Matricellular protein	YAP/TAZ–TEAD; TGF-β cooperation	NO	PMID:25502501
+PAI-1	SERPINE1	Target mecano-dependiente (stiffness) downstream YAP/TAZ; profibrotic loop	Serine protease inhibitor	YAP/TAZ; fibrosis loop	NO	PMID:25502501
+Collagen I	COL1A1	ECM stiffness driver; feedback mecánico (tissue stiffening)	ECM structural protein	TGF-β/SMAD; YAP/TAZ programs	NO	PMID:25502501
+Collagen I	COL1A2	ECM stiffness driver; feedback loop fibrosis	ECM structural protein	TGF-β/SMAD; YAP/TAZ programs	NO	PMID:25502501
+LOX	LOX	Crosslink ECM→stiffening; parte de circuitos mecano-activos con miRNAs	ECM crosslinking enzyme	YAP/TAZ–miR-130/301 feedback (reported in PH)	NO	PMID:26565914
+APOE	APOE	Parte del eje miR-130/301–PPARγ–APOE–LRP8 (mecano-feedback ECM)	Lipoprotein component	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+LRP8	LRP8	Parte del eje mecano-feedback con miR-130/301	Receptor	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+HDAC1	HDAC1	Deacetylation→heterochromatin/euchromatin balance; inhibidores reducen nuclear stiffness	Histone deacetylase	Chromatin remodeling	YES	s44258-025-00063-5
+HDAC2	HDAC2	Similar: control acetylation→chromatin compaction→nuclear mechanics	Histone deacetylase	Chromatin remodeling	YES	s44258-025-00063-5
+HDAC3	HDAC3	Reportado en contexto de contractility/actomyosin (reviewed); modula chromatin state con mecánica	Histone deacetylase	Chromatin remodeling	YES	s44258-025-00063-5
+HDAC5	HDAC5	HDAC en contextos de migración/metástasis; también afecta chromatin compaction	Histone deacetylase	Chromatin remodeling	YES	s44258-025-00063-5
+p300	EP300	Writer acetylation; modula accesibilidad cromatina y respuesta a cues mecánicos	Histone acetyltransferase	Chromatin opening/activation	YES	s44258-025-00063-5
+CBP	CREBBP	Writer acetylation; similar a EP300	Histone acetyltransferase	Chromatin activation	YES	s44258-025-00063-5
+BRD4	BRD4	Reader acetylation; regula enhancers; probable nodo en mechano-transcription	Acetyl-lysine reader	BET-dependent transcription	YES	s44258-025-00063-5
+DNMT1	DNMT1	DNA methylation; mecánica nuclear puede alterar DNA methylation (reported in deformation contexts)	DNA methyltransferase	DNA methylation pathway	YES	s44258-025-00063-5
+DNMT3A	DNMT3A	De novo methylation; contribuye a epigenetic memory	DNA methyltransferase	DNA methylation pathway	YES	s44258-025-00063-5
+DNMT3B	DNMT3B	De novo methylation; contribuye a epigenetic memory	DNA methyltransferase	DNA methylation pathway	YES	s44258-025-00063-5
+TET1	TET1	Demethylation (5mC→5hmC); potencial rol en plasticidad epigenética mecano-dependiente	DNA demethylation enzyme	DNA demethylation pathway	YES	s44258-025-00063-5
+TET2	TET2	Demethylation; plasticidad epigenética mecano-dependiente	DNA demethylation enzyme	DNA demethylation pathway	YES	s44258-025-00063-5
+TET3	TET3	Demethylation; plasticidad epigenética mecano-dependiente	DNA demethylation enzyme	DNA demethylation pathway	YES	s44258-025-00063-5
+SUV39H1	KMT1A	Writer H3K9me3; aumenta heterochromatin→stiffness nuclear	H3K9 methyltransferase	Heterochromatin formation	YES	s44258-025-00063-5
+SUV39H2	KMT1B	Writer H3K9me3; heterochromatin→stiffness nuclear	H3K9 methyltransferase	Heterochromatin formation	YES	s44258-025-00063-5
+SETDB1	SETDB1	Writer H3K9me3; heterochromatin architecture	H3K9 methyltransferase	Heterochromatin formation	YES	s44258-025-00063-5
+G9a	EHMT2	Writer H3K9me1/2; contribuye a compaction/stiffness	H3K9 methyltransferase	Heterochromatin regulation	YES	s44258-025-00063-5
+GLP	EHMT1	Writer H3K9me1/2; heterochromatin regulation	H3K9 methyltransferase	Heterochromatin regulation	YES	s44258-025-00063-5
+EZH2	EZH2	Writer H3K27me3; modula chromatin state y potencial stiffness	H3K27 methyltransferase (PRC2)	Polycomb repression	YES	s44258-025-00063-5
+EED	EED	PRC2 core; reader/structural subunit para H3K27me3 propagation	Polycomb subunit	Polycomb repression	YES	s44258-025-00063-5
+SUZ12	SUZ12	PRC2 core; esencial para H3K27me3 deposition	Polycomb subunit	Polycomb repression	YES	s44258-025-00063-5
+KDM4 (H3K9me3 eraser)	KDM4A	Inhibición KDM4 aumenta H3K9me3 y preserva chromatin architecture bajo stiff priming	H3K9me3 demethylase	Chromatin remodeling under mechanical memory	YES	Hacking-mechanical-memory_2023_bpj; Mechanical-memory-stored-through-epigenetic-remode
+KDM4 (H3K9me3 eraser)	KDM4B	Eraser H3K9me3; candidato directo en mecano-memory/heterochromatin	H3K9me3 demethylase	Chromatin remodeling	YES	Hacking-mechanical-memory_2023_bpj
+KDM4 (H3K9me3 eraser)	KDM4C	Eraser H3K9me3; candidato directo	H3K9me3 demethylase	Chromatin remodeling	YES	Hacking-mechanical-memory_2023_bpj
+KDM4 (H3K9me3 eraser)	KDM4D	Eraser H3K9me3; candidato directo	H3K9me3 demethylase	Chromatin remodeling	YES	Hacking-mechanical-memory_2023_bpj
+LSD1	KDM1A	Eraser (H3K4/H3K9 context); candidato general de remodeling mecano-dependiente	Histone demethylase	Chromatin remodeling	YES	s44258-025-00063-5
+miR-21 (ncRNA)	MIR21	“Mechanical memory keeper”; inducido durante stiff priming por MRTF-A; mantiene programa fibrogénico tras retirar estímulo	Post-transcriptional regulator	MRTF-A/actin axis; TGF-β/SMAD feedback (reported)	NO	PMID:27798620; S0006349525002863(ScienceDirect)
+miR-29 family (ncRNA)	MIR29A	Antifibrotic; red de miRNAs que apuntan a cytoskeleton/adhesion/ECM en respuesta a high stiffness (reported)	Post-transcriptional regulator	ECM/fibrosis programs; stiffness-linked networks	NO	DOI:10.1021/acsomega.5c03490
+miR-29 family (ncRNA)	MIR29B1	Antifibrotic ECM regulator; candidato mecanosensible (stiffness-response networks)	Post-transcriptional regulator	Fibrosis/ECM regulation	NO	DOI:10.1021/acsomega.5c03490
+miR-29 family (ncRNA)	MIR29B2	Antifibrotic ECM regulator; candidato mecanosensible	Post-transcriptional regulator	Fibrosis/ECM regulation	NO	DOI:10.1021/acsomega.5c03490
+miR-29 family (ncRNA)	MIR29C	Antifibrotic ECM regulator; candidato mecanosensible	Post-transcriptional regulator	Fibrosis/ECM regulation	NO	DOI:10.1021/acsomega.5c03490
+miR-130/301 family (ncRNA)	MIR130A	ECM stiffening induce miR-130/301 via YAP/TAZ; circuito feedback mecanoactivo	Post-transcriptional regulator	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+miR-130/301 family (ncRNA)	MIR130B	Circuito feedback mecanoactivo con YAP/TAZ	Post-transcriptional regulator	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+miR-130/301 family (ncRNA)	MIR301A	Circuito feedback mecanoactivo con YAP/TAZ	Post-transcriptional regulator	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+miR-130/301 family (ncRNA)	MIR301B	Circuito feedback mecanoactivo con YAP/TAZ	Post-transcriptional regulator	YAP/TAZ–miR-130/301 circuit	NO	PMID:26565914
+miR-30c (ncRNA)	MIR30C	Regula MAML1/2 (reported); eje miR30c–MAML–YAP/TAZ afecta nuclear localization	YAP/TAZ localization modulator	Hippo/YAP nuclear localization	NO	PMID:32482852
+NEAT1 (lncRNA)	NEAT1	Mechanoresponsive; stiffness regula NEAT1/PSPC1; responde vía β1-integrin-YAP y Piezo1	Paraspeckle scaffold lncRNA	β1-integrin–YAP; Piezo1 pathways	NO	PMID:41243096
+PSPC1	PSPC1	Paraspeckle protein; mecano-regulado junto a NEAT1; modula destinos pro-fibrosis vs angiogénesis	Paraspeckle component	β1-integrin–YAP; Piezo1 pathways	NO	PMID:41243096
+MALAT1 (lncRNA)	MALAT1	Identificada como stiffness-sensitive lncRNA regulator en transcriptoma stiffness-responsive	lncRNA nuclear speckle-associated	Stiffness-responsive transcriptome	NO	PMID:29051139
+GAS5 (lncRNA)	GAS5	Interactúa con YAP y favorece su citosolic retention/phosphorylation (context); candidato regulador de eje YAP	lncRNA regulator	YAP/TAZ regulation; m6A axis (context)	YES	PMID:31619268
+YTHDF3	YTHDF3	m6A reader; degrada GAS5 m6A-modified y modula señalización YAP (context)	m6A reader protein	m6A pathway; YAP axis	YES	PMID:31619268
+Fibrosis liver nuclear deformation (phenotype link)	SYNE1(DN-KASH context)	Defective nesprin/KASH disconnect rescata forma nuclear y quiescence en células de hígado rígido (cirrhosis stiffness)	LINC disruption tool	ECM stiffness→cytoskeleton→nuclear deformation axis	NO	PMID:32939447
+Liver stiffness mechanosensing outcome marker	HNF4A	Nuclear morphology/stiffness modula phenotype hepatocyte; usado como readout en cirrhosis study	Transcription factor	Hepatocyte differentiation program	NO	PMID:32939447
+
