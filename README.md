@@ -1,4 +1,4 @@
-# Cell-nucleus-mechanical-and-transcriptomic-modeling
+# Cell nucleus mechanical and transcriptomic modeling
 
 ## Overview
 
@@ -91,7 +91,7 @@ NAFLD
 This project is based on a hepatocyte-centered mechanobiological framework that links fatty
 liver disease progression to nuclear deformation and transcriptional reprogramming.
  
-#### **Healthy liver / Steatosis (N–F1) **
+#### **Healthy liver / Steatosis (N–F1)**
 
 • Soft extracellular matrix
 • Low actomyosin tension
@@ -188,7 +188,7 @@ At the cellular level, actomyosin-generated forces are transmitted from the extr
 matrix to the nucleus through integrins, the cytoskeleton, and the LINC complex. The
 effective nuclear stress is modeled as:
 
-σ_nuc = κ · G_eff · ε_cell
+**σ_nuc** = κ · **G_eff** · **ε_cell**
 
 where:
 
@@ -207,7 +207,7 @@ explicitly resolving intracellular force networks.
 To relate mechanical state variables to gene expression, we employ generalized linear
 models of the form:
 
-E[y_g] = g⁻¹(β₀ + β₁·S + β₂·M)
+E[**y_g**] = **g⁻¹**(β₀ + β₁·S + β₂·M)
 
 where:
 
@@ -221,7 +221,7 @@ where:
 For count-based RNA-seq data, the response is modeled using a negative binomial
 distribution:
 
-y_g ~ NB(μ_g, θ_g)
+**y_g** ~ NB(**μ_g**, **θ_g**)
 
 where:
 
