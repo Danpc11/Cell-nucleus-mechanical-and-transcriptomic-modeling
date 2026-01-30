@@ -93,19 +93,19 @@ liver disease progression to nuclear deformation and transcriptional reprogrammi
  
 #### **Healthy liver / Steatosis (N–F1)**
 
-• Soft extracellular matrix
-• Low actomyosin tension
-• Rounded, compliant hepatocyte nucleus
-• Open chromatin organization
+• Soft extracellular matrix 
+• Low actomyosin tension 
+• Rounded, compliant hepatocyte nucleus 
+• Open chromatin organization 
 • Predominantly metabolic transcriptional programs
 
 #### **Progressive NASH (F2)**
 
-• Initiation of ECM remodeling (collagen deposition, LOX activity)
-• Increased cytoskeletal tension and force transmission
-• Partial nuclear deformation
-• Chromatin reorganization and stress sensitivity
-• Mixed metabolic and inflammatory transcriptional programs
+• Initiation of ECM remodeling (collagen deposition, LOX activity) 
+• Increased cytoskeletal tension and force transmission 
+• Partial nuclear deformation 
+• Chromatin reorganization and stress sensitivity 
+• Mixed metabolic and inflammatory transcriptional programs 
 
 #### **Advanced fibrosis (F3–F4)**
 
@@ -141,7 +141,7 @@ weak power-law behavior, a characteristic commonly observed in biological tissue
 
 The constitutive relation between stress and strain is expressed as:
 
-σ(t) = G₀ · t^(−α) ⊗ ε(t)
+σ(t) = G₀ · t^(−α) ⊗ ε(t), G(t) = G0 * t^(-alpha),   with 0 < alpha < 1
 
 where:
 
