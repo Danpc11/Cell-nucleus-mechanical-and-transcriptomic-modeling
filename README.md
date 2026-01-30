@@ -141,7 +141,7 @@ weak power-law behavior, a characteristic commonly observed in biological tissue
 
 The constitutive relation between stress and strain is expressed as:
 
-σ(t) = G₀ · t^(−α) ⊗ ε(t)  with 0 < α < 1
+    σ(t) = G₀ · t^(−α) ⊗ ε(t)
 
 where:
 
@@ -156,7 +156,7 @@ purely viscous (α = 1), but instead displays a continuous spectrum of relaxatio
 
 In the frequency domain, the complex shear modulus takes the form:
 
-G*(ω) = G₀ · (iω)^α
+    G*(ω) = G₀ · (iω)^α
 
 with:
 
@@ -188,7 +188,7 @@ At the cellular level, actomyosin-generated forces are transmitted from the extr
 matrix to the nucleus through integrins, the cytoskeleton, and the LINC complex. The
 effective nuclear stress is modeled as:
 
-**σ_nuc** = κ · **G_eff** · **ε_cell**
+    σ_nuc = κ · G_eff · ε_cell
 
 where:
 
@@ -207,7 +207,7 @@ explicitly resolving intracellular force networks.
 To relate mechanical state variables to gene expression, we employ generalized linear
 models of the form:
 
-E[**y_g**] = **g⁻¹**(β₀ + β₁·S + β₂·M)
+E[y_g] = **g⁻¹**(β₀ + β₁·S + β₂·M)
 
 where:
 
@@ -221,7 +221,7 @@ where:
 For count-based RNA-seq data, the response is modeled using a negative binomial
 distribution:
 
-**y_g** ~ NB(**μ_g**, **θ_g**)
+**y_g** ~ NB(μ_g,θ_g)
 
 where:
 
