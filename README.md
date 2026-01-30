@@ -141,7 +141,7 @@ weak power-law behavior, a characteristic commonly observed in biological tissue
 
 The constitutive relation between stress and strain is expressed as:
 
-σ(t) = G₀ · t^(−α) ⊗ ε(t), G(t) = G0 * t^(-alpha),   with 0 < alpha < 1
+σ(t) = G₀ · t^(−α) ⊗ ε(t)  with 0 < α < 1
 
 where:
 
